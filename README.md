@@ -4,7 +4,7 @@ This is a simple carousel control with fading out effect built with ReactJS + Ta
 
 # How to use
 
-There is no package for installation. You just need to copy code of the carousel from `carousel.tsx` file into your project and use the control as you wish or checkout below sample code:
+There is no package for installation. You just need to copy code of the carousel from [carousel.tsx](https://github.com/vespaiach/reactjs-tailwindcss-carousel/blob/main/src/carousel.tsx) file into your project and use the control as you wish or checkout below sample code:
 
 ```js
 import Carousel from './carousel';
@@ -27,4 +27,4 @@ function App() {
 
 # License
 
-The MIT License (MIT). Please see [License File](https://github.com/vespaiach/carousel-tailwindcss/blob/main/LICENSE) for more information.
+The MIT License (MIT). Please see [License File](https://github.com/vespaiach/reactjs-tailwindcss-carousel/blob/main/LICENSE) for more information.

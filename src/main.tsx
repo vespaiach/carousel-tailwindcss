@@ -6,7 +6,7 @@ import Carousel from './carousel';
 const images = ['/pic1.jpg', '/pic2.jpg', '/pic3.jpg'];
 function App() {
     return (
-        <Carousel images={images} className="h-screen w-screen">
+        <Carousel images={images} timing={4000} className="h-screen w-screen">
             <div className="absolute z-30 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
                 <h1
                     className="text-white font-bold font-mono uppercase text-5xl"
